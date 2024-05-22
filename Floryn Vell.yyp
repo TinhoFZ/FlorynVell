@@ -50,6 +50,7 @@
     {"id":{"name":"rCampoGirassol","path":"rooms/rCampoGirassol/rCampoGirassol.yy",},},
     {"id":{"name":"rCampoGirassolChao","path":"rooms/rCampoGirassolChao/rCampoGirassolChao.yy",},},
     {"id":{"name":"rMenu","path":"rooms/rMenu/rMenu.yy",},},
+    {"id":{"name":"sAnticida","path":"sprites/sAnticida/sAnticida.yy",},},
     {"id":{"name":"sBombaAzul","path":"sprites/sBombaAzul/sBombaAzul.yy",},},
     {"id":{"name":"sBombaBranca","path":"sprites/sBombaBranca/sBombaBranca.yy",},},
     {"id":{"name":"sBombaExplodida","path":"sprites/sBombaExplodida/sBombaExplodida.yy",},},
