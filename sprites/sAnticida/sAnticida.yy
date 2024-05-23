@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Floryn Vell",
-    "path":"Floryn Vell.yyp",
+    "name":"Stats|Itens",
+    "path":"folders/Sprites/Helios/Stats|Itens.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

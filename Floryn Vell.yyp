@@ -43,6 +43,7 @@
   "name":"Floryn Vell",
   "resources":[
     {"id":{"name":"oHeliosBai","path":"objects/oHeliosBai/oHeliosBai.yy",},},
+    {"id":{"name":"oMenu","path":"objects/oMenu/oMenu.yy",},},
     {"id":{"name":"oParede","path":"objects/oParede/oParede.yy",},},
     {"id":{"name":"oTransicao","path":"objects/oTransicao/oTransicao.yy",},},
     {"id":{"name":"oWarp","path":"objects/oWarp/oWarp.yy",},},
