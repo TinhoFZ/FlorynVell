@@ -11,8 +11,8 @@
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oBotaoPai","path":"objects/oBotaoPai/oBotaoPai.yy",},"propertyId":{"name":"Botao_Texto","path":"objects/oBotaoPai/oBotaoPai.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Jogar",},
   ],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Botões",
+    "path":"folders/Objects/Botões.yy",
   },
   "parentObjectId":{
     "name":"oBotaoPai",

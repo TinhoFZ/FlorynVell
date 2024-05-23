@@ -1,0 +1,1 @@
+audio_play_sound(sndWalkingSongMenu, 0, true);

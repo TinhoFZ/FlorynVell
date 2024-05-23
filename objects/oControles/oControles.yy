@@ -1,18 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"oBotaoPai",
+  "%Name":"oControles",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oBotaoPai",
+  "name":"oControles",
   "overriddenProperties":[],
   "parent":{
     "name":"Botões",
     "path":"folders/Objects/Botões.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"oBotaoPai",
+    "path":"objects/oBotaoPai/oBotaoPai.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -26,13 +28,14 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[
-    {"$GMObjectProperty":"v1","%Name":"Botao_Texto","filters":[],"listItems":[],"multiselect":false,"name":"Botao_Texto","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":2,},
-  ],
+  "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sBotao",
+    "path":"sprites/sBotao/sBotao.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
