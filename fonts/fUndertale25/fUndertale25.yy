@@ -1,6 +1,6 @@
 {
   "$GMFont":"",
-  "%Name":"fUndertale",
+  "%Name":"fUndertale25",
   "AntiAlias":0,
   "applyKerning":0,
   "ascender":15,
@@ -117,7 +117,7 @@
   "last":0,
   "lineHeight":20,
   "maintainGms1Font":false,
-  "name":"fUndertale",
+  "name":"fUndertale25",
   "parent":{
     "name":"Fonts",
     "path":"folders/Fonts.yy",

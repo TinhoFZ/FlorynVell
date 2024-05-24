@@ -1,1 +1,1 @@
-audio_play_sound(sndWalkingSongMenu, 0, true);
+audio_play_sound(sndWalkingSongMenu, 100, true);

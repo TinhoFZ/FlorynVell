@@ -3,10 +3,13 @@
   "%Name":"oControles",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"oControles",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oBotaoPai","path":"objects/oBotaoPai/oBotaoPai.yy",},"propertyId":{"name":"Botao_Texto","path":"objects/oBotaoPai/oBotaoPai.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Controles",},
+  ],
   "parent":{
     "name":"Botões",
     "path":"folders/Objects/Botões.yy",
