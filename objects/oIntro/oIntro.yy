@@ -10,8 +10,8 @@
   "name":"oIntro",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Não Visível",
+    "path":"folders/Objects/Não Visível.yy",
   },
   "parentObjectId":null,
   "persistent":false,

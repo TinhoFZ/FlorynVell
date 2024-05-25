@@ -10,6 +10,7 @@ next = 0;
 
 holdz = 0;
 
-strings [0] = "BlaBlaBla historia\nEu Passei tempo demais procrastinando antes de fazer isso";
-strings [1] = "Mais blaBlaBla historia\nEu realmente espero que nao tenha que refazer tudo so que\ncom o codigo de Lucas";
-strings [2] = "Fim da historia, aperte espaco para continuar\nSim, os texto estao ferrados porque eu mudei a resolucao\nOutra Hora eu mudo isso\nBlaBlaBla\nBlaBlaBla\nBlaBlaBla\nBlaBlaBla";
+strings [0] = "Ha muitos anos atras flores de todo o mundo\nse juntaram para formar um local para se morar";
+strings [1] = "Desse modo foi criado FlorynVell\na terra das flores\num lugar pacifico e belo de se viver";
+strings [2] = "Porem essa paz nao durou muito\nFlorynVell e invadida por plantas parasitas\nque vinheram de DynastVell a terra dos parasitas";
+strings [3] = "O caos se instaura em FlorynVell deserta e praticamente inabitavel\ncom apenas uma unica clorofila em meio a escuridao";

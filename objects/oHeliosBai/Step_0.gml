@@ -7,14 +7,6 @@ down_key = keyboard_check(vk_down);
 xspd = (right_key - left_key) * move_spd;
 yspd = (down_key - up_key) * move_spd;
 
-//Colisão
-if place_meeting(x+xspd, y, oParede){
-	xspd = 0;
-}
-	if place_meeting(x, y+yspd, oParede){
-	yspd = 0;
-}
-
 //Animação
 if xspd > 0 {
 	sprite_index = sHeliosDir;
