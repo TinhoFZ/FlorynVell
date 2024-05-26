@@ -63,6 +63,7 @@
     {"id":{"name":"oMenu","path":"objects/oMenu/oMenu.yy",},},
     {"id":{"name":"oMusicas","path":"objects/oMusicas/oMusicas.yy",},},
     {"id":{"name":"oParede","path":"objects/oParede/oParede.yy",},},
+    {"id":{"name":"oPausa","path":"objects/oPausa/oPausa.yy",},},
     {"id":{"name":"oTransicao","path":"objects/oTransicao/oTransicao.yy",},},
     {"id":{"name":"oWarp","path":"objects/oWarp/oWarp.yy",},},
     {"id":{"name":"rCampoFloresNoite","path":"rooms/rCampoFloresNoite/rCampoFloresNoite.yy",},},
@@ -139,13 +140,13 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rTesteInventario","path":"rooms/rTesteInventario/rTesteInventario.yy",},},
     {"roomId":{"name":"rIntro","path":"rooms/rIntro/rIntro.yy",},},
     {"roomId":{"name":"rMenuPrincipal","path":"rooms/rMenuPrincipal/rMenuPrincipal.yy",},},
     {"roomId":{"name":"rMenuControles","path":"rooms/rMenuControles/rMenuControles.yy",},},
     {"roomId":{"name":"rCampoGirassol","path":"rooms/rCampoGirassol/rCampoGirassol.yy",},},
     {"roomId":{"name":"rCampoFloresNoite","path":"rooms/rCampoFloresNoite/rCampoFloresNoite.yy",},},
     {"roomId":{"name":"rCampoGirassolChao","path":"rooms/rCampoGirassolChao/rCampoGirassolChao.yy",},},
+    {"roomId":{"name":"rTesteInventario","path":"rooms/rTesteInventario/rTesteInventario.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

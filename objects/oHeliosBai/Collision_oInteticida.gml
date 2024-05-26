@@ -1,5 +1,5 @@
-global.sInseticida = 1
-if global.sItens = 0{
-	global.sItens = 1
+global.teminseticida = true;
+if global.temitem = false{
+	global.temitem = true
 }
 instance_destroy(other)
