@@ -1,3 +1,3 @@
 event_inherited();
 
-room_goto_previous()
+room_goto(rMenuPrincipal);

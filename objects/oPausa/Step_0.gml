@@ -1,5 +1,6 @@
-
 if keyboard_check_pressed(vk_escape){
+	
+	global.roomPausada = room;
 
 	switch(pausarJogo){
 
@@ -8,7 +9,8 @@ if keyboard_check_pressed(vk_escape){
 		gamePause = true;
 		
 		//adicionar tela de menu aqui
-		room_goto(rMenuPrincipal)
+		room_goto(rInventario)
+		
 		break;
 		case true: instance_activate_all();
 		gamePause = false; 

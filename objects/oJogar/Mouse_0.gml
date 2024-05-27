@@ -6,6 +6,6 @@ event_inherited();
 
 room_goto(rCampoGirassol);
 
-audio_stop_sound(sndWalkingSongMenu);
+audio_stop_all()
 
 audio_play_sound(sndMaybeSongCalm, 100, true);
